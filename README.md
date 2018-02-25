@@ -1,4 +1,4 @@
-# WEB-API
+# WEB-API for Game Maker: Studio
 API for master server with using WEB
 
 A short introduction for work:
